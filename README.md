@@ -1,7 +1,7 @@
 sudoku
 ======
 
-This my final project for CS3102, theory of computation.
+This my final project for [CS3102](http://www.cs.virginia.edu/~robins/cs3102/), theory of computation.
 
 The program will solve and size sudoku puzzle using a combination of constraint propogation and backtracking search. I have capped the inner square size to 5, however, as the board becomes too large to fit on most monitors beyond this dimension.
 
