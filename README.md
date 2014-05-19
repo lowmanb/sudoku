@@ -3,6 +3,9 @@ sudoku
 
 This my final project for CS3102, theory of computation.
 
-The program will theoretically solve and size sudoku puzzle, however, I have capped the inner square size to 5 (at this point most monitors are not large enough to display the board).
+The program will solve and size sudoku puzzle using a combination of constraint propogation and backtracking search. I have capped the inner square size to 5, however, as the board becomes too large to fit on most monitors beyond this dimension.
 
-As long as the FLTK package is installed (used for GUI, everything *should* build with make on most platforms. Tested on OSX.
+The only "extraneous" dependency is the FLTK toolkit. More information can be found [here](http://www.fltk.org/index.php). Everything should build with make. Tested on OSX.
+
+
+
