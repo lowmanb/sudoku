@@ -7,7 +7,8 @@ The program will solve any size sudoku puzzle using a combination of constraint 
 
 The only "extraneous" dependency is the FLTK toolkit used to build the GUI. More information can be found [here](http://www.fltk.org/index.php). 
 
-Everything should build with make. Tested on OSX.
+Everything *should* build with make. Tested on OSX.
 
 
 
+f
